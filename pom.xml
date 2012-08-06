@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.es4j.eventstore</groupId>
-    <artifactId>es4j-serlialization-acceptance</artifactId>
+    <artifactId>es4j-serlialization-acceptance_THERMOSTAT</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>es4j-serlialization-acceptance</name>
+    <name>es4j-serlialization-acceptance_THERMOSTAT</name>
     <url>http://maven.apache.org</url>
 
     <properties>
